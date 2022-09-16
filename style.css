@@ -73,7 +73,6 @@
     margin-bottom: 10px;
     font-weight: 100;
     color: #009688;
-    font-weight: 300;
 }
 
 .services-des{
@@ -82,3 +81,18 @@
     margin-bottom: 40px;
 }
 
+.fa-solid{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    line-height: 50px;
+    
+}
+.service-text{
+    padding-bottom: 45px;
+}
+
+.service-text p {
+    padding: 0 20px;
+    text-align: initial;
+}
