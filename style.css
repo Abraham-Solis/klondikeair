@@ -65,4 +65,20 @@
 
 .services-img img{
     width: 70%;
+    border-radius: 10px;
 }
+
+.services h1{
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: 100;
+    color: #009688;
+    font-weight: 300;
+}
+
+.services-des{
+    display: felx;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
